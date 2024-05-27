@@ -61,7 +61,7 @@ const projectsData = [
     previewUrl: "https://github.com/david3022/spring-jpa-main",
   },
   {
-    id: 6,
+    id: 7,
     title: "Real State site",
     description: "Elegant listings of various apartment rentals with interactive navigation in the navbar leading to different routes, including the Contact Us section.",
     image: "/images/projects/5.png",
@@ -70,7 +70,7 @@ const projectsData = [
     previewUrl: "https://real-statedavid3022.vercel.app",
   },
   {
-    id: 7,
+    id: 8,
     title: "Car Dealer website",
     description: "Car dealership with nav bar allowing the user to move fastthroughthe sections and also a credit aplication form",
     image: "/images/projects/carDealer.jpg",
@@ -79,7 +79,7 @@ const projectsData = [
     previewUrl: "https://cardeal5.vercel.app/",
     },
     {
-      id: 8,
+      id: 9,
       title: "Tetris Videogame",
       description: "Classic tetris videogame where drawing and programming logic skills are put into practice for piece rotation and collision",
       image: "/images/projects/4.png",
@@ -88,15 +88,6 @@ const projectsData = [
       previewUrl: "https://tetris02-david3022s-projects.vercel.app/",
     },
     {
-      id: 9,
-      title: "Cars website",
-      description: "Inspired by some Tesla.com components but with public assets found online,Photoshop to retouch and Css for some cool effects",
-      image: "/images/projects/carsite.jpg",
-      tag: ["All", "Mobile"],
-      gitUrl: "https://github.com/david3022/One-Drive2/",
-      previewUrl: "https://tetris02-david3022s-projects.vercel.app/",
-      },
-    {
       id: 10,
       title: "Visual Novel Website",
       description: "Created on Renpy using Python sintax,is a short game just made for test porpuses,also was compilated for Android OS",
@@ -104,7 +95,17 @@ const projectsData = [
       tag: ["All", "Mobile"],
       gitUrl: "https://github.com/david3022/VisualNovel2",
       previewUrl: "https://visual-novel2.vercel.app/",
+    },
+    {
+      id: 11,
+      title: "Cars website",
+      description: "Inspired by some Tesla.com components but with public assets found online,Photoshop to retouch and Css for some cool effects",
+      image: "/images/projects/carsite.jpg",
+      tag: ["All", "Mobile"],
+      gitUrl: "https://github.com/david3022/One-Drive2/",
+      previewUrl: "https://tetris02-david3022s-projects.vercel.app/",
       },
+  
 // const projectsData = [
 //   {
 //     id: 1,
